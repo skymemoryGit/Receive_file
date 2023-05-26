@@ -1,0 +1,2 @@
+exception trovati in DB during modifica sono 0
+Essi sono: 
